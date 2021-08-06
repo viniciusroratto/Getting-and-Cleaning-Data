@@ -1,4 +1,4 @@
-###Getting-and-Cleaning-Data-Week-4-Assignment
+### Getting-and-Cleaning-Data-Week-4-Assignment
 
 This is the submission for the assignment for week 4 of Getting and Cleaning Data Coursera course.
 
